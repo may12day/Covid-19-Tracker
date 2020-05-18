@@ -27,11 +27,11 @@
 
   - ##### Demo Page 
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=1000 height=300 src="https://user-images.githubusercontent.com/26703868/82257644-05293a00-9976-11ea-98e5-ff6f6f3d3032.png" alt="Tracker India"></a>
-</p>
-
+  <p align="center">
+    <a href="" rel="noopener">
+  <img width=1000 height=300 src="https://user-images.githubusercontent.com/26703868/82257644-05293a00-9976-11ea-98e5-ff6f6f3d3032.png" alt="Tracker India"></a>
+  </p>
+  
   - ##### Visualization
 
 <p align="center">
@@ -50,10 +50,10 @@
 
   - ##### Demo page
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=1000 height=300 src="https://user-images.githubusercontent.com/26703868/82257627-ff335900-9975-11ea-89d7-848a740c09cc.png" alt="Tracker India"></a>
-</p>
+  <p align="center">
+    <a href="" rel="noopener">
+  <img width=1000 height=300 src="https://user-images.githubusercontent.com/26703868/82257627-ff335900-9975-11ea-89d7-848a740c09cc.png" alt="Tracker India"></a>
+  </p>
 
   - ##### Visualization
 
